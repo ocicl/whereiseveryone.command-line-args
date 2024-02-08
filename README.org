@@ -1,0 +1,10 @@
+* whereiseveryone.command-line-args
+
+whereiseveryone.command-line-args is a Common Lisp system for
+automatically generating command line interfaces (CLIs).
+
+|---------+----------------------------------------------------------|
+| source  | git:https://git.sr.ht/~whereiseveryone/command-line-args |
+| commit  | ff21547e                                                 |
+| systems | whereiseveryone.command-line-args                        |
+|---------+----------------------------------------------------------|
