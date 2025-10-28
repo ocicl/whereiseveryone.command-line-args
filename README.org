@@ -5,6 +5,6 @@ automatically generating command line interfaces (CLIs).
 
 |---------+----------------------------------------------------------|
 | source  | git:https://git.sr.ht/~whereiseveryone/command-line-args |
-| commit  | ff21547e                                                 |
+| commit  | 6e62b4a                                                 |
 | systems | whereiseveryone.command-line-args                        |
 |---------+----------------------------------------------------------|
